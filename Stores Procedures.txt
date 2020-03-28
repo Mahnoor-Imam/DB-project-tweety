@@ -1,0 +1,21 @@
+1)info of a particular user through id
+2)info of all users
+3)no. of likes/dislikes on a particular tweet
+4)no. of tweets of a user
+5)all tweets of a user
+6)no. of comments on a tweet
+7)all comments on a tweet
+8)all the likers/dislikers of a tweet
+9)no. of followers of a particular user through id
+10)followers info(some)
+11)no. of tweets having a particular hashtag
+12)serch a tweet based on a hashtag
+13)top n trending hashtags,tweets,users
+14)search a user
+15)search a message in chat
+16)search a tweet,message,comment by time and date
+17)change password,name,DP or any other user info by verifying
+18)search for tweet,comment through a substring
+19)search for users through gender,country and status
+20)delete a tweet,comment by verifying
+21)block user
